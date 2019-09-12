@@ -1,0 +1,11 @@
+C:\Temp\fixConverter\fixConverter\bin\Debug\netcoreapp2.2\fixConverter.deps.json
+C:\Temp\fixConverter\fixConverter\bin\Debug\netcoreapp2.2\fixConverter.runtimeconfig.json
+C:\Temp\fixConverter\fixConverter\bin\Debug\netcoreapp2.2\fixConverter.runtimeconfig.dev.json
+C:\Temp\fixConverter\fixConverter\bin\Debug\netcoreapp2.2\fixConverter.dll
+C:\Temp\fixConverter\fixConverter\bin\Debug\netcoreapp2.2\fixConverter.pdb
+C:\Temp\fixConverter\fixConverter\obj\Debug\netcoreapp2.2\fixConverter.csprojAssemblyReference.cache
+C:\Temp\fixConverter\fixConverter\obj\Debug\netcoreapp2.2\fixConverter.csproj.CoreCompileInputs.cache
+C:\Temp\fixConverter\fixConverter\obj\Debug\netcoreapp2.2\fixConverter.AssemblyInfoInputs.cache
+C:\Temp\fixConverter\fixConverter\obj\Debug\netcoreapp2.2\fixConverter.AssemblyInfo.cs
+C:\Temp\fixConverter\fixConverter\obj\Debug\netcoreapp2.2\fixConverter.dll
+C:\Temp\fixConverter\fixConverter\obj\Debug\netcoreapp2.2\fixConverter.pdb
